@@ -16,3 +16,4 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 • HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 ### **UML Class Diagram:**
+<img width="6000" height="1916" alt="Image" src="https://github.com/user-attachments/assets/b2704d76-3b42-4c09-8ed4-10017b309b04" />
