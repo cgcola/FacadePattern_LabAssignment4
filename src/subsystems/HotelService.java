@@ -1,4 +1,5 @@
 package subsystems;
 
-public class HotelService {
+public interface HotelService {
+    void performService();
 }
